@@ -1,5 +1,6 @@
 {
   "name": "jwcx-random",
+  "homepage":"https://dmg.st/outing",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

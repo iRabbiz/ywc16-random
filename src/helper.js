@@ -18,10 +18,12 @@ export function groupidToString(groupID) {
 }
 
 export const removed = [
-  groupsObject.C,
   groupsObject.E,
-  groupsObject.A,
   groupsObject.F,
+  groupsObject.G,
+  groupsObject.H,
+  groupsObject.I,
+  groupsObject.J,
 ]
 
 function random() {
@@ -44,4 +46,4 @@ export const mode = RandomMode.advanced
 
 // special1 (vi###) special2(JWC48) or normal
 export const SoundMode = "epic"
-export const WindowWidth = 1680
+export const WindowWidth = 1920
